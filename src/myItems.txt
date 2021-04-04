@@ -1,0 +1,6 @@
+Clothes
+Face caps
+WristWatches
+Shoes
+Watches
+src/myItems.txt
